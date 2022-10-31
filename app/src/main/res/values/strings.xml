@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Formulir Pendaftaran</string>
+    <string-array name="arr_jalur">
+        <item>Jalur Pendaftaran</item>
+        <item>Jalur Tanpa Tes</item>
+        <item>Tes Tertulis</item>
+        <item>Tes Wawancara</item>
+        <item>Rekomendasi</item>
+    </string-array>
+</resources>
